@@ -46,7 +46,7 @@
         },
         "MONGO": {
             "description": "Enter Mongo DB",
-            "value": "mongodb+srv://viktor55:Gagan@123@cluster0.4efvr6n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+            "value": ""
         }
     },
     "stack": "container"
